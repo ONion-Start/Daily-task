@@ -1,0 +1,1 @@
+Find the largest common divisor for an array of integers.Find the largest common divisor for two fractional numbers.
