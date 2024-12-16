@@ -1,0 +1,1 @@
+A C++ program that accepts input data in the form of an array of numbers and performs ascending sorting. After each sorting step, it displays the current state of the array. Added the ability to sort the array in descending order.
