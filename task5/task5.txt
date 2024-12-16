@@ -1,0 +1,1 @@
+Find the sum of the elements in each column of the matrix.Find the sum of the elements on the main diagonal of the matrix.Find the smallest element in each row of the matrix.
